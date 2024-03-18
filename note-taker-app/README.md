@@ -20,7 +20,7 @@ the notes saved notes persists.
 
 ## [Link to Video](https://drive.google.com/file/d/109Gwf0TvTjM3tbAyjoT9wbWKOPMP3XIK/view)
 
-![screenshot of note taker](assets/1.png)
+![screenshot of note taker](./Assets/1.png)
 
 ## Credits
 
