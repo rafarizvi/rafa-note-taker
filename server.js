@@ -28,6 +28,12 @@ app.get('/notes', (req, res) =>
     res.sendFile(path.join(__dirname, '/public/pages/notes.html'))
 );
 
+// Sends to home page when a user attempts to visit routes that don't exist.
+app.get('*', (req, res) => 
+    res.sendFile(path.join(__dirname, '/public/index.html'))
+);
+
+// App listens on specified port.
 app.listen(PORT, () => 
     console.log(`App listening at http://localhost:${PORT}`)
 );
