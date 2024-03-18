@@ -18,7 +18,7 @@ Users are able write a new note, save the note, view and delete the note. When t
 the notes saved notes persists.
 
 
-## [Link to Video]()
+## [Link to Video](https://drive.google.com/file/d/109Gwf0TvTjM3tbAyjoT9wbWKOPMP3XIK/view)
 
 ![screenshot of note taker](assets/1.png)
 
